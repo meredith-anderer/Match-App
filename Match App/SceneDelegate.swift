@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Match App
 //
-//  Created by mcmaster on 4/12/22.
+//  Created by Meredith Anderer on 4/12/22.
 //
 
 import UIKit
